@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marcos Vargas</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning on **ReactJs, NextJs, NestJs, Postgres, MongoDB, JWT, SQL, NodeJs, CSS**
+- 🌱 I’m currently learning on **AWS, NestJs, Postgres, MongoDB, JWT, SQL, NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marcos-developer-j?tab=repositories](https://github.com/marcos-developer-j?tab=repositories)
 
-- 💬 Ask me about **ReactJs, NodeJs, Express, NestJs, HTML5, CSS**
+- 💬 Ask me about **AWS Deployment, NodeJs, Express, NestJs, Postgres, MySql, Netpune **
 
 - 📫 How to reach me **https://www.linkedin.com/in/marcos-esteban-16742b186/**
 
