@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos Vargas</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate backend developer from Colombia</h3>
 
 - 🌱 I’m currently learning on **AWS, NestJs, Postgres, MongoDB, JWT, SQL, NodeJs**
 
